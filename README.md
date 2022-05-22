@@ -1,5 +1,4 @@
-
-## _printf()
+## _printf() // C Programming
 
 The printf project is a collaboration between Okoth Onyango and Wambui Wambugu, under the ALX/Holberton School Software Engineering Programme. 
 
@@ -30,7 +29,7 @@ Own Printf Function That Performs Formatted Output Conversion And Print Data.
 
 
 
-### holberton.h
+### main.h
 Header File Where All Prototypes Are Saved.
 
 
@@ -245,4 +244,4 @@ Okoth Onyango and Wambui Wambugu
 
 ### End
 
-Okoth Onyango & Wambui Wambugu // ALX Software Engineering Programme // Cohort 6 // 2022.
+***Okoth Onyango & Wambui Wambugu // ALX Software Engineering Programme // Cohort 6 // 2022.***

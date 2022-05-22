@@ -1,6 +1,6 @@
 ## _printf() // C Programming
 
-***The printf project is a collaboration between Okoth Onyango and Wambui Wambugu, under the ALX/Holberton School Software Engineering Programme. 
+***The printf project is a collaboration between Okoth Onyango and Wambui Wambugu, under the ALX/Holberton School Software Engineering Programme.***
 
 This function named "_printf()" imitates the actual "printf()" command located in the stdio.h library of C programming Language. It contains some of the basic features and functions found in the manual 3 of "printf".
 
@@ -21,7 +21,7 @@ If the program runs successfully, the **return value** is the amount of chars pr
 
 
 
-## File Functions
+## Project File Functions
 ------------------
 
 ### _printf.c

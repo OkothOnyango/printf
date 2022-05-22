@@ -244,4 +244,4 @@ Okoth Onyango and Wambui Wambugu
 
 ### End
 
-***Okoth Onyango & Wambui Wambugu // ALX Software Engineering Programme // Cohort 6 // 2022.***
+***Okoth Onyango & Wambui Wambugu // ALX/Holberton School Software Engineering Programme // Cohort 6 // 2022.***
